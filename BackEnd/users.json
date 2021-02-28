@@ -1,0 +1,42 @@
+[
+  {
+    "prefix": "+39",
+    "phoneNumber": 3337575036,
+    "userName": "cicci",
+    "password": "$2b$10$DGciuVbYugO.o1pVVrQ0q.nz.1ZwMn2GQeObp17A7AGI8kjemATE6",
+    "interactions": [
+      {
+        "To": 3337575037,
+        "message": "Mbare che dici?"
+      },
+      {
+        "To": 3337575037,
+        "message": "Mbare che dici?"
+      },
+      {
+        "To": 3337575037,
+        "message": "Mbare che dici?"
+      }
+    ]
+  },
+  {
+    "prefix": "+39",
+    "phoneNumber": 3337575037,
+    "userName": "cicci",
+    "password": "$2b$10$aQRI7XhVW89AIH128nDedO3SXRZtuDJ.PxNWTTO8e08E4OCE2K4BO",
+    "interactions": [
+      {
+        "From": 3337575037,
+        "message": "Mbare che dici?"
+      },
+      {
+        "From": 3337575037,
+        "message": "Mbare che dici?"
+      },
+      {
+        "From": 3337575037,
+        "message": "Mbare che dici?"
+      }
+    ]
+  }
+]
